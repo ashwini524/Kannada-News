@@ -3,7 +3,7 @@
 
 
 
-<a href="https://play.google.com/store/apps/details?id=com.optimuscreations.kannadanews"><img  align="center" src="https://user-images.githubusercontent.com/37587120/229857344-1fca071e-3534-4b03-83d7-54da7207e161.png" alt="img1" target="_blank" style="width:180px; height:80px"/></a>
+<a align="center" target="_blank" href="https://play.google.com/store/apps/details?id=com.optimuscreations.kannadanews"><img  align="center" src="https://user-images.githubusercontent.com/37587120/229857344-1fca071e-3534-4b03-83d7-54da7207e161.png" alt="img1"  style="width:180px; height:80px"/></a>
 
 
 This is news app available in Kannada language. The app mainly utilises navigation drawer to show news from different sources
@@ -17,7 +17,7 @@ This is news app available in Kannada language. The app mainly utilises navigati
 <td><img src="https://user-images.githubusercontent.com/37587120/229838510-669a1c37-88ab-4cc4-94bf-7a3f53a2f005.jpeg" alt="img1" style="width:280px; height:550px"/></td>
 </tr>
 
-<tr>
+<tr align="center">
      <td>Screen 3</td>
      <td>Screen 4</td>
   </tr>
