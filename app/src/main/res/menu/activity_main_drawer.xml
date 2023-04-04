@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/tvp"
+            android:title="@string/tv9"
+            android:menuCategory="secondary"/>
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/news18"
+            android:title="@string/news18"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/publictv"
+            android:title="@string/public_tv"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/btv_news_fragment"
+            android:icon="@drawable/btv"
+            android:title="@string/btv"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/digvijaya_news_fragment"
+            android:icon="@drawable/suvarna"
+            android:title="@string/suvarna"
+            android:menuCategory="secondary"/>
+    </group>
+
+    <item android:title="@string/upcoming"
+        android:menuCategory="secondary">
+        <menu>
+            <item
+                android:id="@+id/the_hindu"
+                android:icon="@drawable/digvijay"
+                android:title="Digvijaya"
+                android:menuCategory="secondary"/>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">KANNADA NEWS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="tv9">TV9</string>
+    <string name="news18">NEWS18</string>
+    <string name="btv">BTV</string>
+    <string name="digvijaya">DIGVIJAYA</string>
+    <string name="hindu">hindu</string>
+    <string name="Hindu">Hindu</string>
+<!--    &lt;!&ndash; TODO: Remove or change this placeholder text &ndash;&gt;-->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+    <string name="publictv">publictv</string>
+    <string name="btvnews">BTV</string>
+    <string name="hello_blank_fragment">BLANK</string>
+    <string name="public_tv">PUBLIC TV</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="suvarna">SUVARNA</string>
+    <string name="suvarnanews">SUVARNA NEWS</string>
+    <string name="loading">Please wait...</string>
+    <string name="ok">okinandroid</string>
+</resources>

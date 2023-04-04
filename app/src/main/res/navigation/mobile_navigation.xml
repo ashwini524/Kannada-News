@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.optimuscreations.kannadanews.ui.tv9.HomeFragment"
+        android:label="@string/tv9"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.optimuscreations.kannadanews.ui.news18.GalleryFragment"
+        android:label="@string/news18"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.optimuscreations.kannadanews.ui.publictv.SlideshowFragment"
+        android:label="@string/publictv"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/btv_news_fragment"
+        android:name="com.optimuscreations.kannadanews.fragment.btvnewsfragment"
+        android:label="@string/btv"
+        tools:layout="@layout/fragment_btvnewsfragment" />
+    <fragment
+        android:id="@+id/digvijaya_news_fragment"
+        android:name="com.optimuscreations.kannadanews.fragment.digvijaynews"
+        android:label="@string/suvarnanews"
+        tools:layout="@layout/fragment_digvijaynews" />
+</navigation>
